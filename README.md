@@ -1,4 +1,4 @@
-﻿# Add to get GCD CC
+### Add to get GCD CC:
 
 The approach in two short points:
 
