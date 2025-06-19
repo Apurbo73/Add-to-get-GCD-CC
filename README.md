@@ -1,6 +1,6 @@
 ﻿# Add-to-get-GCD-CC
 
-Sure! Here's the approach in two short points:
+The approach in two short points:
 
 1. **Check GCD of X and Y**: If `gcd(X, Y) > 1`, they are already not coprime — so no changes needed → print `0`.
 
