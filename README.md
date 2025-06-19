@@ -6,4 +6,3 @@ The approach in two short points:
 
 2. **Try adding 1**: If making one increment to either `X` or `Y` gives `gcd > 1`, print `1`; otherwise, it takes two increments → print `2`.
 
-Let me know if you'd like a [dry run example](f) or a [visual explanation](f).
